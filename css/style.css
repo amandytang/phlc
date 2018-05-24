@@ -129,7 +129,8 @@ blockquote {
 }
 
 .colText p {
-  font-size:1.1em !important;
+  font-size: 1.1em !important;
+  text-align: left !important;
 }
 
 .col1 {
@@ -163,10 +164,25 @@ blockquote {
     padding-top: 2.5%;
   }
 
+  .hero-image {
+    max-width: 100vw !important;
+    overflow-x: hidden;
+  }
+
+  .hero-image img {
+    width: 150%;
+  }
+
+  .heading img {
+    width: 200%;
+    margin-left: -50%;
+    margin-top: -130%;
+  }
+
   .main p {
-    font-size: 1.2em !important;
+    font-size: 1.1em !important;
     text-align: justify;
-    line-height: 1.3em;
+    line-height: 1.45em;
     color: #33312c;
   }
 
@@ -176,7 +192,12 @@ blockquote {
   }
 
   blockquote {
-    width: 92% !important;
+    width: 95%;
+  }
+
+  blockquote p {
+    margin-left: 4%;
+    text-align: left !important;
   }
 
   #showcase {
