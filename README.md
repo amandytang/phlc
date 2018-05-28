@@ -1,6 +1,6 @@
 # Port Hacking Lapidary Club Homepage
 
-[Port Hacking Lapidary Club](http://amandytang.github.io/phlc) requested a website to provide information about the club to the community and attract more members.
+[Port Hacking Lapidary Club](http://porthackinglapidary.com.au/) requested a website to provide information about the club to the community and attract more members.
 
 ![Port Hacking Lapidary Club Screenshot](https://github.com/amandytang/phlc/blob/master/css/images/fullpagecapture.png)
 <br/>
